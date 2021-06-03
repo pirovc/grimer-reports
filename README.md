@@ -41,5 +41,3 @@ METADATA="mgnify/${STUDYACC}_metadata.tsv.gz"
 grimer -c config/default.yaml -i $TABLE -m $METADATA -f ";" --obs-replace '^.+__' '' '_' ' ' -r superkingdom kingdom phylum class order family genus species -t ncbi -d -g -o "mgnify/${STUDYACC}.html" --title "MGnify ${STUDYACC}"  
 </pre>
 </details>
-
-</details>
