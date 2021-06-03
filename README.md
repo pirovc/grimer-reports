@@ -10,7 +10,7 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
 ***original publication: [10.1038/nmicrobiol.2016.24](https://doi.org/10.1038/nmicrobiol.2016.24)***
 
-**[GRIMER report](https://pirovc.github.io/grimer-reports/microbiomedb/ResistomeAmplicon.html)**
+--> **[GRIMER report](https://pirovc.github.io/grimer-reports/microbiomedb/ResistomeAmplicon.html)** <--
 
 <details>
 <summary>cmds</summary>
@@ -27,7 +27,7 @@ grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abunda
 
 ***original publication [10.7554/elife.35987](https://doi.org/10.7554/elife.35987)***
 
-**[GRIMER report](https://pirovc.github.io/grimer-reports/mgnify/MGYS00005180.html)**
+--> **[GRIMER report](https://pirovc.github.io/grimer-reports/mgnify/MGYS00005180.html)** <--
 
 <details>
 <summary>cmds</summary>
