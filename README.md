@@ -1,15 +1,17 @@
+# GRIMER Reports
+
 ![GRIMER](grimer/img/logo.png)
 
-Examples of GRIMER report
+Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
-## Reports
+---
 
 - Preterm Infant Resistome downloaded from [MicrobiomeDB](https://microbiomedb.org/mbio/app/record/dataset/DS_82fe0308e2) (124 samples, original publication 10.1038/nmicrobiol.2016.24)
 
 **[GRIMER report](https://pirovc.github.io/grimer-reports/microbiomedb/ResistomeAmplicon.html)**
 
 <details>
-  <summary>commands</summary>
+  <summary>cmds</summary>
 
 ```bash
 wget https://microbiomedb.org/common/downloads/release-22/82fe0308e2032de2041694df6592ba542ea84b86/ResistomeAmplicon.16s_DADA2.taxon_abundance.biom
@@ -21,6 +23,8 @@ grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abunda
 
 </details>
 
+---
+
 - Antibiotic induced changes in the microbiota disrupt redox dynamics in the gut downloaded from [MGnify](https://www.ebi.ac.uk/metagenomics/studies/MGYS00005180) (573 samples, V4 region of 16S rRNA gene - original publication 10.7554/elife.35987)
 
 **[GRIMER report](https://pirovc.github.io/grimer-reports/mgnify/MGYS00005180.html)**
@@ -28,7 +32,7 @@ grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abunda
 <details>
   <summary>commands</summary>
 
-```bash
+```
 # Download
 STUDYACC="MGYS00005180"
 grimer/scripts/mgnify_download.py $STUDYACC mgnify/
