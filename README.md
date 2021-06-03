@@ -19,8 +19,7 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 `wget https://microbiomedb.org/common/downloads/release-22/82fe0308e2032de2041694df6592ba542ea84b86/ResistomeAmplicon.16s_DADA2.taxon_abundance.tsv`
 
 `grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abundance.biom -m ResistomeAmplicon.16s_DADA2.sample_details.tsv -d -g -t ncbi -r superkingdom phylum class order family genus species --title "MicrobiomeDB Preterm Infant Resistome (V4)" -o ResistomeAmplicon.html`
-```
-
+  
 </details>
 
 ---
