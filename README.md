@@ -1,6 +1,4 @@
-# GRIMER Reports
-
-![GRIMER](grimer/img/logo.png)
+![GRIMER](https://raw.githubusercontent.com/pirovc/grimer/main/grimer/img/logo.png)
 
 Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
