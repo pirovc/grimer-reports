@@ -4,6 +4,14 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
 ---
 
+### WGS analysis from Leiby et al. "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries"
+
+***original publication: [10.1186/s40168-018-0575-4](https://doi.org/10.1186/s40168-018-0575-4)***
+
+--> **[GRIMER report](https://pirovc.github.io/grimer-reports/others/placenta_wgs.html)** <--
+
+---
+
 ### Preterm Infant Resistome downloaded from [MicrobiomeDB](https://microbiomedb.org/mbio/app/record/dataset/DS_82fe0308e2) 
 
 ***original publication: [10.1038/nmicrobiol.2016.24](https://doi.org/10.1038/nmicrobiol.2016.24)***
