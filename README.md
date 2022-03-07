@@ -8,7 +8,8 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
 ***original publication: [10.1186/s40168-018-0575-4](https://doi.org/10.1186/s40168-018-0575-4)***
 
---> **[GRIMER report](https://pirovc.github.io/grimer-reports/others/placenta_wgs.html)** <--
+--> **[GRIMER report WGS](https://pirovc.github.io/grimer-reports/others/placenta_wgs.html)** <--
+--> **[GRIMER report AMPLICON](https://pirovc.github.io/grimer-reports/others/placenta_amplicon.html)** <--
 
 ---
 
@@ -21,9 +22,10 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 <details>
 <summary>cmds</summary>
 <pre>
+# Download
 wget https://microbiomedb.org/common/downloads/release-22/82fe0308e2032de2041694df6592ba542ea84b86/ResistomeAmplicon.16s_DADA2.taxon_abundance.biom
-wget https://microbiomedb.org/common/downloads/release-22/82fe0308e2032de2041694df6592ba542ea84b86/ResistomeAmplicon.16s_DADA2.taxon_abundance.tsv
-grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abundance.biom -m ResistomeAmplicon.16s_DADA2.sample_details.tsv -d -g -t ncbi -r superkingdom phylum class order family genus species --title "MicrobiomeDB Preterm Infant Resistome (V4)" -o ResistomeAmplicon.html
+# Run
+grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abundance.biom -d -g -t ncbi -r superkingdom phylum class order family genus species --title "MicrobiomeDB Preterm Infant Resistome (V4)" -o ResistomeAmplicon.html
 </pre>
 </details>
 
@@ -38,12 +40,7 @@ grimer -c grimer/config/default.yaml -i ResistomeAmplicon.16s_DADA2.taxon_abunda
 <details>
 <summary>cmds</summary>
 <pre>
-# Download
-STUDYACC="MGYS00005180"
-grimer/scripts/mgnify_download.py $STUDYACC mgnify/
-# Select largest profile available and metadata
-TABLE=$(ls -S mgnify/${PREFIX}*taxonomy_abundances*.tsv.gz | head -n 1)
-METADATA="mgnify/${STUDYACC}_metadata.tsv.gz"
-grimer -c config/default.yaml -i $TABLE -m $METADATA -f ";" --obs-replace '^.+__' '' '_' ' ' -r superkingdom kingdom phylum class order family genus species -t ncbi -d -g -o "mgnify/${STUDYACC}.html" --title "MGnify ${STUDYACC}"  
+# Download and run
+./grimer-mgnify.py -i MGYS00005180 -o MGYS00005180 -g "-d -g" 
 </pre>
 </details>
