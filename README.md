@@ -4,13 +4,21 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
 ---
 
-### WGS analysis from Leiby et al. "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries"
+### Data analysis from Leiby et al. "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries"
 
 ***original publication: [10.1186/s40168-018-0575-4](https://doi.org/10.1186/s40168-018-0575-4)***
 
 --> **[GRIMER report WGS](https://pirovc.github.io/grimer-reports/others/placenta_wgs.html)** <--
 
 --> **[GRIMER report AMPLICON](https://pirovc.github.io/grimer-reports/others/placenta_amplicon.html)** <--
+
+---
+
+### KatharoSeq analysis from Minich et al. "KatharoSeq Enables High-Throughput Microbiome Analysis from Low-Biomass Samples"
+
+***original publication: [10.1128/mSystems.00218-17](https://doi.org/10.1128/mSystems.00218-17)***
+
+--> **[GRIMER report](https://pirovc.github.io/grimer-reports/others/katharoseq.html)** <--
 
 ---
 
