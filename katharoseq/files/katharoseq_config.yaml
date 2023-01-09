@@ -1,0 +1,22 @@
+references:
+  "Contaminants": "files/contaminants.yml"
+  "Human-related": "files/human-related.yml" 
+
+controls:
+  "dna negative control": "katharoseq_dna_negative_control.txt"
+  "dna negative control swab": "katharoseq_dna_negative_control_swab.txt"
+  "dna positive control": "katharoseq_dna_positive_control.txt"
+  "pcr negative control": "katharoseq_pcr_negative_control.txt"
+  "pcr positive control": "katharoseq_pcr_positive_control.txt"
+
+external:
+  mgnify: "files/mgnify5989.tsv"
+  decontam:
+    threshold: 0.1
+    method: "combined"
+    frequency_metadata: "split_lib_log_reads"
+    prevalence_file: 
+    - "katharoseq_dna_negative_control.txt"
+    - "katharoseq_pcr_negative_control.txt"
+    - "katharoseq_dna_negative_control_swab.txt"
+

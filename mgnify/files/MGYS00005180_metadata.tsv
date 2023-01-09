@@ -1,0 +1,574 @@
+	investigation type	project name	geographic location (longitude)	geographic location (country and/or sea,region)	collection date	environment (biome)	environment (feature)	environment (material)	environmental package	sequencing method	geographic location (latitude)	ENA checklist	sample-desc	sample-name
+ERR2539455	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) baseline	1
+ERR2539456	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) baseline	2
+ERR2539457	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) baseline	3
+ERR2539458	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) baseline	4
+ERR2539459	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) baseline	5
+ERR2539460	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) baseline	6
+ERR2539461	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) baseline	7
+ERR2539462	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) baseline	8
+ERR2539463	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) baseline	9
+ERR2539464	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) baseline	10
+ERR2539700	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 120	7.144
+ERR2539471	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) baseline	17
+ERR2539521	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 12	14.012
+ERR2539522	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 12	15.012
+ERR2540288	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-28	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, control) day -1	2.2.1
+ERR2539496	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 8	6.008
+ERR2540293	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-29	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 3 (anaerobic, control) day 0	2.3.2
+ERR2540296	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-30	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, control) day 1	2.2.3
+ERR2540297	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-30	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 3 (anaerobic, control) day 1	2.3.3
+ERR2540299	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-01	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, antibiotic) day 2	2.1.4
+ERR2540307	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-05	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 4 (anaerobic, antibiotic) day -2	3.4.0
+ERR2540313	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-07	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 2 (aerobic, antibiotic) day 0	3.2.2
+ERR2540314	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-07	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 3 (anaerobic, control) day 0	3.3.2
+ERR2539468	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) baseline	14
+ERR2539907	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 8	945458.D8
+ERR2539514	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 12	7.012
+ERR2539518	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 12	11.012
+ERR2539519	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 12	12.012
+ERR2539525	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 12	18.012
+ERR2539527	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 16	2.016
+ERR2539644	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 63	15.063
+ERR2539654	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 73	7.073
+ERR2539530	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 16	5.016
+ERR2539532	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 16	7.016
+ERR2539533	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 16	8.016
+ERR2539535	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 16	10.016
+ERR2539537	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 16	12.016
+ERR2539540	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 16	15.016
+ERR2539483	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 4	11.004
+ERR2539485	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 4	13.004
+ERR2539486	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 4	14.004
+ERR2539490	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 4	18.004
+ERR2539493	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 8	3.008
+ERR2539495	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 8	5.008
+ERR2539497	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 8	7.008
+ERR2539498	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 8	9.008
+ERR2539499	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 8	10.008
+ERR2539624	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 49	13.049
+ERR2539631	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 63	2.063
+ERR2539635	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 63	6.063
+ERR2539636	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 63	7.063
+ERR2539646	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 63	17.063
+ERR2539792	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 240	14.24
+ERR2539542	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 16	17.016
+ERR2539550	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 20	9.02
+ERR2539569	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 23	10.023
+ERR2539570	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 23	11.023
+ERR2539571	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 23	12.023
+ERR2539605	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 39	11.039
+ERR2539800	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 312	5.312
+ERR2539508	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 12	1.012
+ERR2539612	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 49	1.049
+ERR2539758	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 192	14.216
+ERR2539509	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 12	2.012
+ERR2539510	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 12	3.012
+ERR2539578	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 25	1.025
+ERR2539579	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 25	2.025
+ERR2539580	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 25	3.025
+ERR2539581	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 25	4.025
+ERR2539582	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 25	5.025
+ERR2539583	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 25	6.025
+ERR2539759	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 192	15.216
+ERR2539809	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 312	14.312
+ERR2539813	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 312	18.312
+ERR2539833	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 5	945452.D5
+ERR2539627	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 49	16.049
+ERR2539593	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 25	17.025
+ERR2539594	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 25	18.025
+ERR2539595	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 39	1.039
+ERR2539596	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 39	2.039
+ERR2539597	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 39	3.039
+ERR2539825	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 9	945451.D9
+ERR2539828	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 0	945452.D0
+ERR2539531	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 16	6.016
+ERR2539604	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 39	10.039
+ERR2539663	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 73	18.073
+ERR2539789	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 240	11.24
+ERR2539843	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 3	945453.D3
+ERR2539846	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 6	945453.D7
+ERR2539905	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 6	945458.D6
+ERR2539607	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 39	14.039
+ERR2539608	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 39	15.039
+ERR2539670	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 87	8.087
+ERR2539671	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 87	9.087
+ERR2539916	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 5	945459.D5
+ERR2539919	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 8	945459.D8
+ERR2539680	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 97	5.097
+ERR2539715	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 144	5.168
+ERR2539716	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 144	6.168
+ERR2539511	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 12	4.012
+ERR2539512	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 12	5.012
+ERR2539524	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 12	17.012
+ERR2539693	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 97	18.097
+ERR2539810	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 312	15.312
+ERR2539817	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 1	945451.D1
+ERR2539882	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 456 (abx=n cohouse=n) day 7	945456.D7
+ERR2539886	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 456 (abx=n cohouse=n) day 11	945456.D11
+ERR2539887	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 0	945457.D0
+ERR2539523	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 12	16.012
+ERR2539567	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 23	8.023
+ERR2539818	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 2	945451.D2
+ERR2539822	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 6	945451.D6
+ERR2539893	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 6	945457.D6
+ERR2539500	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 8	11.008
+ERR2539536	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 16	11.016
+ERR2539543	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 16	18.016
+ERR2539585	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 25	8.025
+ERR2539826	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 10	945451.D10
+ERR2539827	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 11	945451.D11
+ERR2539829	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 1	945452.D1
+ERR2539832	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 4	945452.D4
+ERR2539903	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 4	945458.D4
+ERR2539904	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 5	945458.D5
+ERR2539908	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 9	945458.D9
+ERR2539911	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 0	945459.D0
+ERR2539467	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) baseline	13
+ERR2539590	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 25	13.025
+ERR2539913	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 2	945459.D2
+ERR2539915	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 4	945459.D4
+ERR2539918	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 7	945459.D7
+ERR2539920	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 9	945459.D9
+ERR2539855	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 3	945454.D4
+ERR2539922	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 11	945459.D11
+ERR2539924	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 1	945460.D1
+ERR2539928	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 5	945460.D5
+ERR2539930	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 7	945460.D7
+ERR2539931	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 8	945460.D8
+ERR2539932	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 0	945461.D0
+ERR2539526	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 16	1.016
+ERR2539528	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 16	3.016
+ERR2539858	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 7	945454.D7
+ERR2539859	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 8	945454.D8
+ERR2539861	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 10	945454.D10
+ERR2539862	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 11	945454.D11
+ERR2539469	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) baseline	15
+ERR2539864	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 455 (abx=n cohouse=n) day 1	945455.D1
+ERR2539867	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 455 (abx=n cohouse=n) day 4	945455.D4
+ERR2539883	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 456 (abx=n cohouse=n) day 8	945456.D8
+ERR2539884	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 456 (abx=n cohouse=n) day 9	945456.D9
+ERR2539885	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 456 (abx=n cohouse=n) day 10	945456.D10
+ERR2539890	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 3	945457.D3
+ERR2539896	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 9	945457.D9
+ERR2539897	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 10	945457.D10
+ERR2539898	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 11	945457.D11
+ERR2539900	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 1	945458.D1
+ERR2539902	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 3	945458.D3
+ERR2539914	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 3	945459.D3
+ERR2539917	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 6	945459.D6
+ERR2539921	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 459 (abx=n cohouse=n) day 10	945459.D10
+ERR2539923	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 0	945460.D0
+ERR2539934	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 2	945461.D2
+ERR2539936	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 4	945461.D4
+ERR2539937	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 5	945461.D5
+ERR2539941	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 9	945461.D9
+ERR2539942	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 10	945461.D10
+ERR2539735	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 168	8.192
+ERR2539841	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 1	945453.D1
+ERR2539848	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 8	945453.D9
+ERR2539944	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 0	945462.D0
+ERR2539945	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 1	945462.D1
+ERR2539946	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 2	945462.D2
+ERR2539950	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 6	945462.D6
+ERR2539951	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 7	945462.D7
+ERR2539952	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 8	945462.D8
+ERR2539926	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 3	945460.D3
+ERR2539965	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 9	945463.D9
+ERR2539966	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 10	945463.D10
+ERR2539927	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 4	945460.D4
+ERR2539995	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 3	945466.D3
+ERR2539494	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 8	4.008
+ERR2540270	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-10	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 4 (anaerobic, antibiotic) day -1	1.4.1
+ERR2539588	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 25	11.025
+ERR2539592	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 25	16.025
+ERR2539598	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 39	4.039
+ERR2539602	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 39	8.039
+ERR2539614	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 49	3.049
+ERR2539677	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 97	2.097
+ERR2539618	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 49	7.049
+ERR2539690	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 97	15.097
+ERR2539691	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 97	16.097
+ERR2539629	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 49	18.049
+ERR2539630	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 63	1.063
+ERR2539694	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 120, no sample weight available	1.144
+ERR2539698	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 120	5.144
+ERR2539701	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 120	8.144
+ERR2539702	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 120	9.144
+ERR2539647	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 63	18.063
+ERR2539711	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 120	18.144
+ERR2539717	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 144	7.168
+ERR2539756	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 192	12.216
+ERR2539763	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 216, sample weight unknown	2.23
+ERR2539806	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 312	11.312
+ERR2539807	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 312	12.312
+ERR2539811	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 312	16.312
+ERR2539718	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 144	8.168
+ERR2539657	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 73	10.073
+ERR2539721	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 144	11.168
+ERR2539780	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 240	2.24
+ERR2539834	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 6	945452.D6
+ERR2539836	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 8	945452.D8
+ERR2539839	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 11	945452.D11
+ERR2539842	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 2	945453.D2
+ERR2539852	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 0	945454.D1
+ERR2539854	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 2	945454.D3
+ERR2539857	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 6	945454.D6
+ERR2539782	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 240	4.24
+ERR2539889	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 2	945457.D2
+ERR2539899	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 0	945458.D0
+ERR2539981	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 1	945465.D1
+ERR2539986	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 6	945465.D6
+ERR2539987	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 7	945465.D7
+ERR2539466	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) baseline	12
+ERR2539474	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 4	2.004
+ERR2539798	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 312	3.312
+ERR2539799	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 312	4.312
+ERR2539801	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 312	6.312
+ERR2540266	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 4 (anaerobic, antibiotic) day -2	1.4.0
+ERR2540267	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-10	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 1 (aerobic, control) day -1	1.1.1
+ERR2540269	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-10	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 3 (anaerobic, control) day -1	1.3.1
+ERR2540272	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-11	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 2 (aerobic, antibiotic) day 0	1.2.2
+ERR2540275	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-12	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 1 (aerobic, control) day 1	1.1.3
+ERR2540282	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-13	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 4 (anaerobic, antibiotic) day 2	1.4.4
+ERR2540283	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-27	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, antibiotic) day -2	2.1.0
+ERR2540284	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-27	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, control) day -2	2.2.0
+ERR2540285	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-27	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 3 (anaerobic, control) day -2	2.3.0
+ERR2540289	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-28	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 3 (anaerobic, control) day -1	2.3.1
+ERR2540295	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-30	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, antibiotic) day 1	2.1.3
+ERR2540300	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-01	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, control) day 2	2.2.4
+ERR2540303	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-27	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run2 donor feces	run2_donor
+ERR2540304	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-05	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 1 (aerobic, control) day -2	3.1.0
+ERR2540309	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-06	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 2 (aerobic, antibiotic) day -1	3.2.1
+ERR2540315	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-07	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 4 (anaerobic, antibiotic) day 0	3.4.2
+ERR2540317	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-08	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 2 (aerobic, antibiotic) day 1	3.2.3
+ERR2540318	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-08	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 3 (anaerobic, control) day 1	3.3.3
+ERR2540319	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-08	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 4 (anaerobic, antibiotic) day 1	3.4.3
+ERR2540323	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 4 (anaerobic, antibiotic) day 2	3.4.4
+ERR2539516	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 12	9.012
+ERR2539470	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) baseline	16
+ERR2539547	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 20	6.02
+ERR2539549	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 20	8.02
+ERR2539560	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 23	1.023
+ERR2539475	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 4	3.004
+ERR2539479	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 4	7.004
+ERR2539480	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 4	8.004
+ERR2539482	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 4	10.004
+ERR2539562	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 23	3.023
+ERR2539492	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 8	2.008
+ERR2539503	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 8	14.008
+ERR2539573	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 23	14.023
+ERR2539576	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 23	17.023
+ERR2539741	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 168	14.192
+ERR2539515	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 12	8.012
+ERR2539520	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 12	13.012
+ERR2539603	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 39	9.039
+ERR2539541	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 16	16.016
+ERR2539545	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 20	4.02
+ERR2539615	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 49	4.049
+ERR2539620	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 49	9.049
+ERR2539621	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 49	10.049
+ERR2539623	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 49	12.049
+ERR2539554	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 20	13.02
+ERR2539633	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 63	4.063
+ERR2539634	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 63	5.063
+ERR2539642	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 63	13.063
+ERR2539563	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 23	4.023
+ERR2539564	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 23	5.023
+ERR2539568	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 23	9.023
+ERR2539577	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 23	18.023
+ERR2539601	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 39	7.039
+ERR2539606	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 39	13.039
+ERR2539651	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 73	4.073
+ERR2539652	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 73	5.073
+ERR2539653	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 73	6.073
+ERR2539655	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 73	8.073
+ERR2539656	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 73	9.073
+ERR2539659	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 73	12.073
+ERR2539664	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 87	1.087
+ERR2539788	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 240	10.24
+ERR2539610	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 39	17.039
+ERR2539613	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 49	2.049
+ERR2539617	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 49	6.049
+ERR2539619	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 49	8.049
+ERR2539622	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 49	11.049
+ERR2539632	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 63	3.063
+ERR2539641	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 63	12.063
+ERR2539643	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 63	14.063
+ERR2539648	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 73	1.073
+ERR2539650	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 73	3.073
+ERR2539661	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 73	14.073
+ERR2539678	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 97	3.097
+ERR2539681	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 97	6.097
+ERR2539682	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 97	7.097
+ERR2539683	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 97	8.097
+ERR2539684	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 97	9.097
+ERR2539686	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 97	11.097
+ERR2539688	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 97	13.097
+ERR2539692	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 97	17.097
+ERR2539696	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 120	3.144
+ERR2539703	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 120	10.144
+ERR2539704	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 120	11.144
+ERR2539705	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 120	12.144
+ERR2539714	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 144	4.168
+ERR2539722	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 144	12.168
+ERR2539724	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 144	14.168
+ERR2539732	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 168	5.192
+ERR2539739	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 168	12.192
+ERR2539744	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 168	17.192
+ERR2539745	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 168	18.192
+ERR2539746	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 192	2.216
+ERR2539860	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 454 (abx=y cohouse=n) day 9	945454.D9
+ERR2539513	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 12	6.012
+ERR2539517	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 12	10.012
+ERR2539708	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 120	15.144
+ERR2539709	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 120	16.144
+ERR2539710	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 120	17.144
+ERR2539712	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 144	2.168
+ERR2539529	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 16	4.016
+ERR2539534	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 16	9.016
+ERR2539538	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 16	13.016
+ERR2539539	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 16	14.016
+ERR2539544	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 20	2.02
+ERR2539546	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 20	5.02
+ERR2539548	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 20	7.02
+ERR2539706	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 120	13.144
+ERR2539743	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 168	16.192
+ERR2539748	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 192	4.216
+ERR2539749	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 192	5.216
+ERR2539751	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 192	7.216
+ERR2539753	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 192	9.216
+ERR2539755	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 192	11.216
+ERR2539781	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 240	3.24
+ERR2539783	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 240	5.24
+ERR2539786	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 240	8.24
+ERR2539793	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 240	15.24
+ERR2539797	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 312	2.312
+ERR2539760	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 192	16.216
+ERR2539761	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 192	17.216
+ERR2539762	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 192	18.216
+ERR2539764	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 216, sample weight unknown	3.23
+ERR2539766	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 216, sample weight unknown	5.23
+ERR2539770	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 216, sample weight unknown	9.23
+ERR2539808	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 312	13.312
+ERR2539819	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 3	945451.D3
+ERR2540020	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 4	945468.D4
+ERR2539772	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 216, sample weight unknown	11.23
+ERR2539773	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 216, sample weight unknown	12.23
+ERR2539774	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 216, sample weight unknown	13.23
+ERR2539777	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 216, sample weight unknown	16.23
+ERR2539779	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 216, sample weight unknown	18.23
+ERR2539794	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 240	16.24
+ERR2539804	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 312	9.312
+ERR2539812	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 312	17.312
+ERR2539814	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 25	14.25
+ERR2539815	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 39	12.39
+ERR2539847	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 7	945453.D8
+ERR2539863	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 455 (abx=n cohouse=n) day 0	945455.D0
+ERR2539865	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 455 (abx=n cohouse=n) day 2	945455.D2
+ERR2539866	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 455 (abx=n cohouse=n) day 3	945455.D3
+ERR2539892	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 5	945457.D5
+ERR2539901	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 2	945458.D2
+ERR2539910	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 458 (abx=y cohouse=n) day 11	945458.D11
+ERR2539939	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 7	945461.D7
+ERR2539940	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 8	945461.D8
+ERR2540032	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 8	945469.D8
+ERR2540041	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 5	945470.D5
+ERR2539820	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 4	945451.D4
+ERR2539845	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 5	945453.D6
+ERR2539849	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 9	945453.D10
+ERR2539851	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 11	945454.D0
+ERR2539955	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 11	945462.D11
+ERR2539961	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 5	945463.D5
+ERR2539962	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 6	945463.D6
+ERR2539964	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 8	945463.D8
+ERR2539868	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 455 (abx=n cohouse=n) day 5	945455.D5
+ERR2539891	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 4	945457.D4
+ERR2539938	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 6	945461.D6
+ERR2539948	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 4	945462.D4
+ERR2539954	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 10	945462.D10
+ERR2539957	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 1	945463.D1
+ERR2539960	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 4	945463.D4
+ERR2539970	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 2	945464.D2
+ERR2539972	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 4	945464.D4
+ERR2539976	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 8	945464.D8
+ERR2539977	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 9	945464.D9
+ERR2539979	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 11	945464.D11
+ERR2539983	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 3	945465.D3
+ERR2539985	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 5	945465.D5
+ERR2539998	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 6	945466.D6
+ERR2540001	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 9	945466.D9
+ERR2540007	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 3	945467.D3
+ERR2540010	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 6	945467.D6
+ERR2540016	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 0	945468.D0
+ERR2539967	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 11	945463.D11
+ERR2539968	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 0	945464.D0
+ERR2540025	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 1	945469.D1
+ERR2539830	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 2	945452.D2
+ERR2540037	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 1	945470.D1
+ERR2539795	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 240	17.24
+ERR2540276	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-12	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 2 (aerobic, antibiotic) day 1	1.2.3
+ERR2540278	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-12	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 4 (anaerobic, antibiotic) day 1	1.4.3
+ERR2540281	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-13	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 3 (anaerobic, control) day 2	1.3.4
+ERR2540311	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-06	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 4 (anaerobic, antibiotic) day -1	3.4.1
+ERR2540316	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-08	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 1 (aerobic, control) day 1	3.1.3
+ERR2540320	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 1 (aerobic, control) day 2	3.1.4
+ERR2539473	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 1 (abx=y cohouse=n) hour 4	1.004
+ERR2539476	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 4	4.004
+ERR2539481	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 4	9.004
+ERR2539611	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 39	18.039
+ERR2539565	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 23	6.023
+ERR2539566	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 23	7.023
+ERR2539574	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 23	15.023
+ERR2539575	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 23	16.023
+ERR2539586	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 25	9.025
+ERR2539599	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 39	5.039
+ERR2539765	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 216, sample weight unknown	4.23
+ERR2539767	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 216, sample weight unknown	6.23
+ERR2539984	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 4	945465.D4
+ERR2539989	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 9	945465.D9
+ERR2539992	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 0	945466.D0
+ERR2540301	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-01	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 3 (anaerobic, control) day 2	2.3.4
+ERR2540302	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-01	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 4 (anaerobic, antibiotic) day 2	2.4.4
+ERR2540305	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-05	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 2 (aerobic, antibiotic) day -2	3.2.0
+ERR2540306	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-05	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 3 (anaerobic, control) day -2	3.3.0
+ERR2540308	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-06	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 1 (aerobic, control) day -1	3.1.1
+ERR2540321	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 2 (aerobic, antibiotic) day 2	3.2.4
+ERR2540322	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 3 (anaerobic, control) day 2	3.3.4
+ERR2540324	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-05	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 donor feces	run3_donor
+ERR2539600	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 39	6.039
+ERR2539775	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 216, sample weight unknown	14.23
+ERR2539776	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 216, sample weight unknown	15.23
+ERR2539616	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 5 (abx=n(abx=y cohoused=y with mouse 13) hour 49	5.049
+ERR2539625	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 49	14.049
+ERR2539637	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 63	8.063
+ERR2539638	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 63	9.063
+ERR2539640	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 63	11.063
+ERR2539649	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 73	2.073
+ERR2539660	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 73	13.073
+ERR2539687	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 97	12.097
+ERR2539689	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 97	14.097
+ERR2539695	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 120	2.144
+ERR2539831	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 3	945452.D3
+ERR2539713	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 144	3.168
+ERR2539719	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 144	9.168
+ERR2539720	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 144	10.168
+ERR2539723	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 144	13.168
+ERR2539725	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 144	15.168
+ERR2539726	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 144	16.168
+ERR2539729	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 168	2.192
+ERR2539731	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 4 (abx=y cohoused=y with mouse 18) hour 168	4.192
+ERR2539733	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 168	6.192
+ERR2539734	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 168	7.192
+ERR2539949	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 5	945462.D5
+ERR2540030	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 6	945469.D6
+ERR2540038	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 2	945470.D2
+ERR2539728	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 144	18.168
+ERR2539736	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 9 (abx=n cohoused=y with mouse 11) hour 168	9.192
+ERR2539740	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 168	13.192
+ERR2539742	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 168	15.192
+ERR2539980	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 0	945465.D0
+ERR2540263	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 1 (aerobic, control) day -2	1.1.0
+ERR2539747	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 192	3.216
+ERR2539750	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 192	6.216
+ERR2539752	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 192	8.216
+ERR2539757	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-11	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 192	13.216
+ERR2539982	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 2	945465.D2
+ERR2540004	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 0	945467.D0
+ERR2539769	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 8 (abx=n cohoused=n) hour 216, sample weight unknown	8.23
+ERR2539778	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 216, sample weight unknown	17.23
+ERR2539784	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 240	6.24
+ERR2539785	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 240	7.24
+ERR2539790	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 240	12.24
+ERR2539791	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 240	13.24
+ERR2540008	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 4	945467.D4
+ERR2539796	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 18 (abx=n cohoused=y with mouse 4) hour 240	18.24
+ERR2539888	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 457 (abx=y cohouse=n) day 1	945457.D1
+ERR2540023	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 7	945468.D7
+ERR2540024	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 0	945469.D0
+ERR2540033	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 9	945469.D9
+ERR2539935	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 3	945461.D3
+ERR2540044	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 8	945470.D8
+ERR2539737	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 168	10.192
+ERR2539943	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 11	945461.D11
+ERR2539768	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-12	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 216, sample weight unknown	7.23
+ERR2539953	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 9	945462.D9
+ERR2540046	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 10	945470.D10
+ERR2539956	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 0	945463.D0
+ERR2539963	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 7	945463.D7
+ERR2539505	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 8	16.008
+ERR2540009	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 5	945467.D5
+ERR2540014	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 10	945467.D10
+ERR2540017	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 1	945468.D1
+ERR2540018	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 2	945468.D2
+ERR2540019	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 3	945468.D3
+ERR2540021	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 5	945468.D5
+ERR2540022	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 468 (abx=y cohouse=n) day 6	945468.D6
+ERR2540026	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 2	945469.D2
+ERR2540027	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 3	945469.D3
+ERR2540028	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 4	945469.D4
+ERR2540029	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 5	945469.D5
+ERR2540034	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 10	945469.D10
+ERR2540035	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 11	945469.D11
+ERR2539835	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 7	945452.D7
+ERR2540003	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 11	945466.D11
+ERR2540005	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 1	945467.D1
+ERR2540045	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 9	945470.D9
+ERR2540047	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 11	945470.D11
+ERR2540268	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-10	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 2 (aerobic, antibiotic) day -1	1.2.1
+ERR2540287	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-28	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, antibiotic) day -1	2.1.1
+ERR2540291	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-29	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, antibiotic) day 0	2.1.2
+ERR2540310	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-06	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 3 (anaerobic, control) day -1	3.3.1
+ERR2540312	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-07-07	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 3 vessel 1 (aerobic, control) day 0	3.1.2
+ERR2539978	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 10	945464.D10
+ERR2539996	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 4	945466.D4
+ERR2540006	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 2	945467.D2
+ERR2540031	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 469 (abx=n cohouse=n) day 7	945469.D7
+ERR2540274	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-11	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 4 (anaerobic, antibiotic) day 0	1.4.2
+ERR2539738	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 11 (abx=y cohoused=y with mouse 9) hour 168	11.192
+ERR2539489	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 4	17.004
+ERR2539609	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 39	16.039
+ERR2539707	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 120	14.144
+ERR2539802	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-15	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 7 (abx=y cohoused=y with mouse 17) hour 312	7.312
+ERR2539821	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 5	945451.D5
+ERR2539838	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 10	945452.D10
+ERR2539850	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 10	945453.D11
+ERR2539925	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 460 (abx=y cohouse=n) day 2	945460.D2
+ERR2539933	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 461 (abx=n cohouse=n) day 1	945461.D1
+ERR2539947	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 462 (abx=y cohouse=n) day 3	945462.D3
+ERR2539958	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 2	945463.D2
+ERR2539959	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 463 (abx=n cohouse=n) day 3	945463.D3
+ERR2539969	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-31	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 1	945464.D1
+ERR2539971	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 3	945464.D3
+ERR2539973	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 5	945464.D5
+ERR2539988	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-07	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 465 (abx=y cohouse=n) day 8	945465.D8
+ERR2539997	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 5	945466.D5
+ERR2540015	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 11	945467.D11
+ERR2540036	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 0	945470.D0
+ERR2540042	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 6	945470.D6
+ERR2540264	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 2 (aerobic, antibiotic) day -2	1.2.0
+ERR2540280	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-13	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 2 (aerobic, antibiotic) day 2	1.2.4
+ERR2540292	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-29	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 2 vessel 2 (aerobic, control) day 0	2.2.2
+ERR2539557	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 16 (abx=n cohoused=n) hour 20	16.02
+ERR2539823	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 451 (abx=n cohouse=n) day 7	945451.D7
+ERR2539837	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-08	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 452 (abx=y cohouse=n) day 9	945452.D9
+ERR2539840	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-08-30	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 453 (abx=n cohouse=n) day 0	945453.D0
+ERR2539974	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 464 (abx=n cohouse=n) day 6	945464.D6
+ERR2539994	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-01	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 2	945466.D2
+ERR2539999	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 7	945466.D7
+ERR2540002	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-09	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 466 (abx=n cohouse=n) day 10	945466.D10
+ERR2540040	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 470 (abx=y cohouse=n) day 4	945470.D4
+ERR2540265	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-09	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 3 (anaerobic, control) day -2	1.3.0
+ERR2539478	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 6 (abx=y cohoused=n) hour 4	6.004
+ERR2539501	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 12 (abx=n cohoused=n) hour 8	12.008
+ERR2539502	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 13 (abx=y cohoused=y with mouse 5) hour 8	13.008
+ERR2539504	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 8	15.008
+ERR2539506	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-02	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 8	17.008
+ERR2539555	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 14 (abx=n cohoused=y with mouse 10) hour 20	14.02
+ERR2539556	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 15 (abx=n cohoused=n) hour 20	15.02
+ERR2539561	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-03	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 2 (abx=y cohoused=n) hour 23	2.023
+ERR2539730	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-10	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 3 (abx=y cohoused=n) hour 168	3.192
+ERR2540011	metagenome	mouse_abx_redox_rep1	-78.94244	USA	2015-09-06	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 467 (abx=y cohouse=n) day 7	945467.D7
+ERR2540277	metagenome	bioreactor_abx_redox	-78.93936	USA	2016-06-12	fecal environment	feces	feces	host-associated	Illumina	36.00341	ERC000013	run 1 vessel 3 (anaerobic, control) day 1	1.3.3
+ERR2539628	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-04	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 17 (abx=n cohoused=y with mouse 7) hour 49	17.049
+ERR2539639	metagenome	mouse_abx_redox_rep2	-78.94244	USA	2015-11-05	fecal environment	feces	feces	host-associated	Illumina	36.00652	ERC000013	mouse 10 (abx=y cohoused=y with mouse 14) hour 63	10.063

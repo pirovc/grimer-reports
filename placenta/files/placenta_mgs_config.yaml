@@ -1,0 +1,14 @@
+references:
+  "Contaminants": "files/contaminants.yml"
+  "Human-related": "files/human-related.yml" 
+
+controls:
+  "Water Controls": "placenta_mgs_water_controls.txt"
+  "Negative Controls": "placenta_mgs_negative_controls.txt"
+
+external:
+  mgnify: "files/mgnify5989.tsv"
+  decontam:
+    threshold: 0.1
+    method: "combined"
+    frequency_metadata: "Nonhost Shotgun reads"

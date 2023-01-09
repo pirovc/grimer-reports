@@ -1,0 +1,392 @@
+SampleID	Group	Type	Case/Control	delivery	16S reads	Nonhost Shotgun reads	Case/ Control	GA at Delivery	Maternal Age (yr)	Race	Nulliparous	Mode of Delivery	Clinical Presentation	Intrapartum Antibiotics	Clinical Chorioamnionitis
+#types	categorical	categorical	categorical	categorical	numeric	numeric	categorical	numeric	numeric	categorical	categorical	categorical	categorical	categorical	categorical
+AS.B1	Blank	Blank			5169										
+AS.B2	Blank	Blank			1444										
+AS.B3	Blank	Blank			464										
+AS.B4	Blank	Blank			1555	18933									
+AS.B5	Blank	Blank			3271	36935									
+AS01	202	Air Swab	Term	SVD	1788		Control	39.1	22	AA	No	SVD	PROM	Yes	No
+AS02	146	Air Swab	Term	SVD	261		Control	39.6	32	Asian	No	SVD	Dilation	No	No
+AS03	147	Air Swab	Term	SVD	775		Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+AS04	157	Air Swab	Term	SVD	2246		Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+AS05	166	Air Swab	Term	SVD	1150		Control	38.2	22	White	No	SVD	Dilation	Yes	No
+AS06	170	Air Swab	Term	SVD	3326		Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+AS07	171	Air Swab	Term	SVD	4157		Control	40.6	26	White	Yes	SVD	PROM	No	No
+AS08	172	Air Swab	Term	SVD	5014		Control	38.6	21	AA	Yes	SVD	PROM	No	No
+AS09	177	Air Swab	Term	SVD	5220		Control	40.2	30	White	No	SVD	Dilation	No	No
+AS10	178	Air Swab	Term	SVD	1062		Control	39.5	31	White	No	SVD	Dilation	No	No
+AS11	182	Air Swab	Term	SVD	3918	887403	Control	39.2	23	AA	Yes	SVD	PROM	No	No
+AS12	186	Air Swab	Term	C-Section	2758	1682475	Control	39.4	33	AA	No	C-Section	Dilation	No	No
+AS13	187	Air Swab	Term	SVD	7774	1330368	Control	39	25	AA	No	SVD	PROM	No	No
+AS14	190	Air Swab	Term	SVD	1190	3904637	Control	40.4	24	AA	No	SVD	Dilation	No	No
+AS15	191	Air Swab	Term	SVD	1599	536817	Control	39.2	34	AA	No	SVD	PROM	No	No
+AS16	193	Air Swab	Term	SVD	6981	1180403	Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+AS17	195	Air Swab	Term	SVD	5207	2117718	Control	38.5	31	White	Yes	SVD	Dilation	No	No
+AS18	197	Air Swab	Term	SVD	3374	2452180	Control	40.3	22	AA	Yes	SVD	PROM	No	No
+AS19	198	Air Swab	Term	SVD	4599	2381457	Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+AS20	198	Air Swab	Term	SVD	3212	1173916	Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+AS21	135	Air Swab	Preterm	SVD	13785	445215	Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+AS22	184	Air Swab	Preterm	SVD	9272	1438521	Case	34	32	White	No	SVD	PPROM	Yes	No
+AS23	192	Air Swab	Preterm	SVD	4943	689862	Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+AS24	207	Air Swab	Preterm	SVD	2628	630330	Case	33.3	25	White	No	SVD	Dilation	No	No
+AS25	216	Air Swab	Preterm	SVD	1733	120157	Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+AS26	224	Air Swab	Preterm	SVD	2375	355952	Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+AS27	226	Air Swab	Preterm	SVD	5681	807875	Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+AS28	250	Air Swab	Preterm	C-Section	3193	447408	Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+AS29	254	Air Swab	Preterm	C-Section	15220	172028	Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+AS30	259	Air Swab	Preterm	SVD	4699	245773	Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+AS31	262	Air Swab	Preterm	SVD	1386		Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+AS32	264	Air Swab	Preterm	SVD	3650		Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+AS33	265	Air Swab	Preterm	C-Section	620		Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+AS34	267	Air Swab	Preterm	C-Section	1101		Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+AS35	274	Air Swab	Preterm	SVD	7961		Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+AS36	279	Air Swab	Preterm	C-Section	7704		Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+AS37	297	Air Swab	Preterm	SVD	5809		Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+AS38	307	Air Swab	Preterm	SVD	225		Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+AS39	314	Air Swab	Preterm	SVD	995		Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+AS40	318	Air Swab	Preterm	SVD	1270		Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+FP.B1	Blank	Blank			2783										
+FP.B10	Blank	Blank			318	201687									
+FP.B11	Blank	Blank			1766	15830									
+FP.B2	Blank	Blank			879										
+FP.B3	Blank	Blank			101										
+FP.B4	Blank	Blank			637										
+FP.B5	Blank	Blank			56										
+FP.B6	Blank	Blank			2387	21613									
+FP.B7	Blank	Blank			134	49370									
+FP.B8	Blank	Blank			81	82777									
+FP.B9	Blank	Blank			72	98517									
+FP01	202	Placenta Fetal Side	Term	SVD	198		Control	39.1	22	AA	No	SVD	PROM	Yes	No
+FP02	146	Placenta Fetal Side	Term	SVD	155		Control	39.6	32	Asian	No	SVD	Dilation	No	No
+FP03	147	Placenta Fetal Side	Term	SVD	1704		Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+FP04	157	Placenta Fetal Side	Term	SVD	4007		Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+FP05	166	Placenta Fetal Side	Term	SVD	548		Control	38.2	22	White	No	SVD	Dilation	Yes	No
+FP06	170	Placenta Fetal Side	Term	SVD	97		Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+FP07	171	Placenta Fetal Side	Term	SVD	224		Control	40.6	26	White	Yes	SVD	PROM	No	No
+FP08	172	Placenta Fetal Side	Term	SVD	241		Control	38.6	21	AA	Yes	SVD	PROM	No	No
+FP09	177	Placenta Fetal Side	Term	SVD	222		Control	40.2	30	White	No	SVD	Dilation	No	No
+FP10	178	Placenta Fetal Side	Term	SVD	254		Control	39.5	31	White	No	SVD	Dilation	No	No
+FP11	182	Placenta Fetal Side	Term	SVD	117		Control	39.2	23	AA	Yes	SVD	PROM	No	No
+FP12	186	Placenta Fetal Side	Term	C-Section	372		Control	39.4	33	AA	No	C-Section	Dilation	No	No
+FP13	187	Placenta Fetal Side	Term	SVD	1500		Control	39	25	AA	No	SVD	PROM	No	No
+FP14	190	Placenta Fetal Side	Term	SVD	122		Control	40.4	24	AA	No	SVD	Dilation	No	No
+FP15	191	Placenta Fetal Side	Term	SVD	346		Control	39.2	34	AA	No	SVD	PROM	No	No
+FP16	193	Placenta Fetal Side	Term	SVD	60		Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+FP17	195	Placenta Fetal Side	Term	SVD	98		Control	38.5	31	White	Yes	SVD	Dilation	No	No
+FP18	197	Placenta Fetal Side	Term	SVD	99		Control	40.3	22	AA	Yes	SVD	PROM	No	No
+FP19	198	Placenta Fetal Side	Term	SVD	58		Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+FP20	201	Placenta Fetal Side	Term	SVD	22		Control	38.1	30	White	Yes	SVD	Dilation	No	No
+FP21	135	Placenta Fetal Side	Preterm	SVD	50		Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+FP22	184	Placenta Fetal Side	Preterm	SVD	77		Case	34	32	White	No	SVD	PPROM	Yes	No
+FP23	192	Placenta Fetal Side	Preterm	SVD	1078		Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+FP24	207	Placenta Fetal Side	Preterm	SVD	4056		Case	33.3	25	White	No	SVD	Dilation	No	No
+FP25	216	Placenta Fetal Side	Preterm	SVD	325		Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+FP26	224	Placenta Fetal Side	Preterm	SVD	235		Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+FP27	226	Placenta Fetal Side	Preterm	SVD	26998		Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+FP28	250	Placenta Fetal Side	Preterm	C-Section	87		Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+FP29	254	Placenta Fetal Side	Preterm	C-Section	1631		Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+FP30	259	Placenta Fetal Side	Preterm	SVD	510		Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+FP31	262	Placenta Fetal Side	Preterm	SVD	59		Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+FP32	264	Placenta Fetal Side	Preterm	SVD	468		Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+FP33	265	Placenta Fetal Side	Preterm	C-Section	164		Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+FP34	267	Placenta Fetal Side	Preterm	C-Section	1389		Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+FP35	274	Placenta Fetal Side	Preterm	SVD	369		Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+FP36	279	Placenta Fetal Side	Preterm	C-Section	1734		Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+FP37	297	Placenta Fetal Side	Preterm	SVD	366		Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+FP38	307	Placenta Fetal Side	Preterm	SVD	327		Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+FP39	314	Placenta Fetal Side	Preterm	SVD	173		Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+FP40	318	Placenta Fetal Side	Preterm	SVD	97		Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+FP41	202	Placenta Fetal Side	Term	SVD	151	39705	Control	39.1	22	AA	No	SVD	PROM	Yes	No
+FP42	146	Placenta Fetal Side	Term	SVD	608	28921	Control	39.6	32	Asian	No	SVD	Dilation	No	No
+FP43	147	Placenta Fetal Side	Term	SVD	8858	101638	Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+FP44	157	Placenta Fetal Side	Term	SVD	352	37626	Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+FP45	166	Placenta Fetal Side	Term	SVD	608	44984	Control	38.2	22	White	No	SVD	Dilation	Yes	No
+FP46	170	Placenta Fetal Side	Term	SVD	440	32840	Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+FP47	171	Placenta Fetal Side	Term	SVD	1793	52734	Control	40.6	26	White	Yes	SVD	PROM	No	No
+FP48	172	Placenta Fetal Side	Term	SVD	525	23101	Control	38.6	21	AA	Yes	SVD	PROM	No	No
+FP49	177	Placenta Fetal Side	Term	SVD	2799	22552	Control	40.2	30	White	No	SVD	Dilation	No	No
+FP50	178	Placenta Fetal Side	Term	SVD	914	23981	Control	39.5	31	White	No	SVD	Dilation	No	No
+FP51	182	Placenta Fetal Side	Term	SVD	4377	18438	Control	39.2	23	AA	Yes	SVD	PROM	No	No
+FP52	186	Placenta Fetal Side	Term	C-Section	382	34092	Control	39.4	33	AA	No	C-Section	Dilation	No	No
+FP53	187	Placenta Fetal Side	Term	SVD	1957	33901	Control	39	25	AA	No	SVD	PROM	No	No
+FP54	190	Placenta Fetal Side	Term	SVD	2116	83447	Control	40.4	24	AA	No	SVD	Dilation	No	No
+FP55	191	Placenta Fetal Side	Term	SVD	518	32534	Control	39.2	34	AA	No	SVD	PROM	No	No
+FP56	193	Placenta Fetal Side	Term	SVD	1685	31996	Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+FP57	195	Placenta Fetal Side	Term	SVD	251	27455	Control	38.5	31	White	Yes	SVD	Dilation	No	No
+FP58	197	Placenta Fetal Side	Term	SVD	3350	25816	Control	40.3	22	AA	Yes	SVD	PROM	No	No
+FP59	198	Placenta Fetal Side	Term	SVD	308	37390	Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+FP60	201	Placenta Fetal Side	Term	SVD	432	33623	Control	38.1	30	White	Yes	SVD	Dilation	No	No
+FP61	135	Placenta Fetal Side	Preterm	SVD	1903	62577	Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+FP62	184	Placenta Fetal Side	Preterm	SVD	9701	48423	Case	34	32	White	No	SVD	PPROM	Yes	No
+FP63	192	Placenta Fetal Side	Preterm	SVD	110	29610	Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+FP64	207	Placenta Fetal Side	Preterm	SVD	21900	41932	Case	33.3	25	White	No	SVD	Dilation	No	No
+FP65	216	Placenta Fetal Side	Preterm	SVD	14939	86987	Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+FP66	224	Placenta Fetal Side	Preterm	SVD	191	48422	Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+FP67	226	Placenta Fetal Side	Preterm	SVD	139122	26308	Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+FP68	250	Placenta Fetal Side	Preterm	C-Section	144	46597	Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+FP69	254	Placenta Fetal Side	Preterm	C-Section	8849	32631	Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+FP70	259	Placenta Fetal Side	Preterm	SVD	1073	21523	Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+FP71	262	Placenta Fetal Side	Preterm	SVD	2033	25572	Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+FP72	264	Placenta Fetal Side	Preterm	SVD	4343	28028	Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+FP73	265	Placenta Fetal Side	Preterm	C-Section	12444	32593	Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+FP74	267	Placenta Fetal Side	Preterm	C-Section	35	13247	Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+FP75	274	Placenta Fetal Side	Preterm	SVD	1203	72427	Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+FP76	279	Placenta Fetal Side	Preterm	C-Section	5558	50485	Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+FP77	297	Placenta Fetal Side	Preterm	SVD	57	39272	Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+FP78	307	Placenta Fetal Side	Preterm	SVD	1635	34081	Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+FP79	314	Placenta Fetal Side	Preterm	SVD	151	32900	Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+FP80	318	Placenta Fetal Side	Preterm	SVD	1107	29588	Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+H2O1	H2O	H2O			12	12916									
+H2O10	H2O	H2O			95	250856									
+H2O11	H2O	H2O			2918										
+H2O12	H2O	H2O			47										
+H2O13	H2O	H2O			969										
+H2O14	H2O	H2O			32										
+H2O15	H2O	H2O			2532										
+H2O16	H2O	H2O			985										
+H2O17	H2O	H2O			977										
+H2O18	H2O	H2O			1367										
+H2O19	H2O	H2O			473										
+H2O2	H2O	H2O			45	6140									
+H2O20	H2O	H2O			2425										
+H2O3	H2O	H2O			33	6427									
+H2O4	H2O	H2O			94158	4957									
+H2O5	H2O	H2O			6983	2282									
+H2O6	H2O	H2O			22683	2011									
+H2O7	H2O	H2O			23382	3171									
+H2O8	H2O	H2O			7104	4773									
+H2O9	H2O	H2O			61	8416									
+MP.B1	Blank	Blank			3209										
+MP.B10	Blank	Blank			1231	56551									
+MP.B2	Blank	Blank			727										
+MP.B3	Blank	Blank			408										
+MP.B4	Blank	Blank			152										
+MP.B5	Blank	Blank			120										
+MP.B6	Blank	Blank			162	351105									
+MP.B7	Blank	Blank			4165	74585									
+MP.B8	Blank	Blank			579	184816									
+MP.B9	Blank	Blank			221	84521									
+MP01	202	Placenta Maternal Side	Term	SVD	441		Control	39.1	22	AA	No	SVD	PROM	Yes	No
+MP02	146	Placenta Maternal Side	Term	SVD	134		Control	39.6	32	Asian	No	SVD	Dilation	No	No
+MP03	147	Placenta Maternal Side	Term	SVD	111		Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+MP04	157	Placenta Maternal Side	Term	SVD	8365		Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+MP05	166	Placenta Maternal Side	Term	SVD	416		Control	38.2	22	White	No	SVD	Dilation	Yes	No
+MP06	170	Placenta Maternal Side	Term	SVD	183		Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+MP07	171	Placenta Maternal Side	Term	SVD	106		Control	40.6	26	White	Yes	SVD	PROM	No	No
+MP08	172	Placenta Maternal Side	Term	SVD	502		Control	38.6	21	AA	Yes	SVD	PROM	No	No
+MP09	177	Placenta Maternal Side	Term	SVD	157		Control	40.2	30	White	No	SVD	Dilation	No	No
+MP10	178	Placenta Maternal Side	Term	SVD	8565		Control	39.5	31	White	No	SVD	Dilation	No	No
+MP11	182	Placenta Maternal Side	Term	SVD	328		Control	39.2	23	AA	Yes	SVD	PROM	No	No
+MP12	186	Placenta Maternal Side	Term	C-Section	247		Control	39.4	33	AA	No	C-Section	Dilation	No	No
+MP13	187	Placenta Maternal Side	Term	SVD	881		Control	39	25	AA	No	SVD	PROM	No	No
+MP14	190	Placenta Maternal Side	Term	SVD	69		Control	40.4	24	AA	No	SVD	Dilation	No	No
+MP15	191	Placenta Maternal Side	Term	SVD	94		Control	39.2	34	AA	No	SVD	PROM	No	No
+MP16	193	Placenta Maternal Side	Term	SVD	860		Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+MP17	195	Placenta Maternal Side	Term	SVD	282		Control	38.5	31	White	Yes	SVD	Dilation	No	No
+MP18	197	Placenta Maternal Side	Term	SVD	358		Control	40.3	22	AA	Yes	SVD	PROM	No	No
+MP19	198	Placenta Maternal Side	Term	SVD	196		Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+MP20	201	Placenta Maternal Side	Term	SVD	102		Control	38.1	30	White	Yes	SVD	Dilation	No	No
+MP21	135	Placenta Maternal Side	Preterm	SVD	1440		Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+MP22	184	Placenta Maternal Side	Preterm	SVD	385		Case	34	32	White	No	SVD	PPROM	Yes	No
+MP23	192	Placenta Maternal Side	Preterm	SVD	155		Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+MP24	207	Placenta Maternal Side	Preterm	SVD	26789		Case	33.3	25	White	No	SVD	Dilation	No	No
+MP25	216	Placenta Maternal Side	Preterm	SVD	94		Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+MP26	224	Placenta Maternal Side	Preterm	SVD	68		Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+MP27	226	Placenta Maternal Side	Preterm	SVD	4764		Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+MP28	250	Placenta Maternal Side	Preterm	C-Section	86		Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+MP29	254	Placenta Maternal Side	Preterm	C-Section	13968		Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+MP30	259	Placenta Maternal Side	Preterm	SVD	1038		Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+MP31	262	Placenta Maternal Side	Preterm	SVD	247		Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+MP32	264	Placenta Maternal Side	Preterm	SVD	237		Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+MP33	265	Placenta Maternal Side	Preterm	C-Section	356		Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+MP34	267	Placenta Maternal Side	Preterm	C-Section	307		Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+MP35	274	Placenta Maternal Side	Preterm	SVD	381		Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+MP36	279	Placenta Maternal Side	Preterm	C-Section	5597		Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+MP37	297	Placenta Maternal Side	Preterm	SVD	236		Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+MP38	307	Placenta Maternal Side	Preterm	SVD	1569		Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+MP39	314	Placenta Maternal Side	Preterm	SVD	432		Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+MP40	318	Placenta Maternal Side	Preterm	SVD	43		Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+MP41	202	Placenta Maternal Side	Term	SVD	207	63053	Control	39.1	22	AA	No	SVD	PROM	Yes	No
+MP42	146	Placenta Maternal Side	Term	SVD	550	36529	Control	39.6	32	Asian	No	SVD	Dilation	No	No
+MP43	147	Placenta Maternal Side	Term	SVD	866	49892	Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+MP44	157	Placenta Maternal Side	Term	SVD	2062	33026	Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+MP45	166	Placenta Maternal Side	Term	SVD	3448	23863	Control	38.2	22	White	No	SVD	Dilation	Yes	No
+MP46	170	Placenta Maternal Side	Term	SVD	559	38710	Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+MP47	171	Placenta Maternal Side	Term	SVD	474	48105	Control	40.6	26	White	Yes	SVD	PROM	No	No
+MP48	172	Placenta Maternal Side	Term	SVD	1291	16871	Control	38.6	21	AA	Yes	SVD	PROM	No	No
+MP49	177	Placenta Maternal Side	Term	SVD	592	21030	Control	40.2	30	White	No	SVD	Dilation	No	No
+MP50	178	Placenta Maternal Side	Term	SVD	5340	25310	Control	39.5	31	White	No	SVD	Dilation	No	No
+MP51	182	Placenta Maternal Side	Term	SVD	41141	23836	Control	39.2	23	AA	Yes	SVD	PROM	No	No
+MP52	186	Placenta Maternal Side	Term	C-Section	478	30128	Control	39.4	33	AA	No	C-Section	Dilation	No	No
+MP53	187	Placenta Maternal Side	Term	SVD	9146	34803	Control	39	25	AA	No	SVD	PROM	No	No
+MP54	190	Placenta Maternal Side	Term	SVD	8830	48379	Control	40.4	24	AA	No	SVD	Dilation	No	No
+MP55	191	Placenta Maternal Side	Term	SVD	3730	46735	Control	39.2	34	AA	No	SVD	PROM	No	No
+MP56	193	Placenta Maternal Side	Term	SVD	5426	20671	Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+MP57	195	Placenta Maternal Side	Term	SVD	2777	21600	Control	38.5	31	White	Yes	SVD	Dilation	No	No
+MP58	197	Placenta Maternal Side	Term	SVD	31899	40899	Control	40.3	22	AA	Yes	SVD	PROM	No	No
+MP59	198	Placenta Maternal Side	Term	SVD	2232	20566	Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+MP60	201	Placenta Maternal Side	Term	SVD	7405	25311	Control	38.1	30	White	Yes	SVD	Dilation	No	No
+MP61	135	Placenta Maternal Side	Preterm	SVD	4008	24732	Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+MP62	184	Placenta Maternal Side	Preterm	SVD	5976	24880	Case	34	32	White	No	SVD	PPROM	Yes	No
+MP63	192	Placenta Maternal Side	Preterm	SVD	1066	24788	Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+MP64	207	Placenta Maternal Side	Preterm	SVD	11340	43360	Case	33.3	25	White	No	SVD	Dilation	No	No
+MP65	216	Placenta Maternal Side	Preterm	SVD	963	31762	Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+MP66	224	Placenta Maternal Side	Preterm	SVD	730	46366	Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+MP67	226	Placenta Maternal Side	Preterm	SVD	2751	32925	Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+MP68	250	Placenta Maternal Side	Preterm	C-Section	372	44043	Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+MP69	254	Placenta Maternal Side	Preterm	C-Section	45673	23998	Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+MP70	259	Placenta Maternal Side	Preterm	SVD	3228	36139	Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+MP71	262	Placenta Maternal Side	Preterm	SVD	7663	19080	Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+MP72	264	Placenta Maternal Side	Preterm	SVD	12039	30242	Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+MP73	265	Placenta Maternal Side	Preterm	C-Section	913	28004	Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+MP74	267	Placenta Maternal Side	Preterm	C-Section	550	25301	Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+MP75	274	Placenta Maternal Side	Preterm	SVD	4432	45615	Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+MP76	279	Placenta Maternal Side	Preterm	C-Section	1532	23036	Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+MP77	297	Placenta Maternal Side	Preterm	SVD	1034	21665	Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+MP78	307	Placenta Maternal Side	Preterm	SVD	576	24831	Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+MP79	314	Placenta Maternal Side	Preterm	SVD	970	30543	Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+MP80	318	Placenta Maternal Side	Preterm	SVD	1333	27405	Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+POS.control1	POS	Positive Control (Gene Block)			4296										
+POS.control2	POS	Positive Control (Gene Block)			1435										
+POS.control3	POS	Positive Control (Gene Block)			1386										
+POS.control4	POS	Positive Control (Gene Block)			16591										
+POS.control5	POS	Positive Control (Gene Block)			64761										
+ShotgunPos	POS	Positive Control (Shotgun)				36069883									
+S.B1	Blank	Blank			54										
+S.B10	Blank	Blank			4292	28181									
+S.B11	Blank	Blank			3386	64333									
+S.B12	Blank	Blank			534	175320									
+S.B13	Blank	Blank			5471	477281									
+S.B14	Blank	Blank			7639	91799									
+S.B2	Blank	Blank			13675										
+S.B3	Blank	Blank			1634										
+S.B4	Blank	Blank			14875										
+S.B5	Blank	Blank			321										
+S.B6	Blank	Blank			4778										
+S.B7	Blank	Blank			80										
+S.B8	Blank	Blank			732										
+S.B9	Blank	Blank			1128	72684									
+S01	202	Maternal Saliva	Term	SVD	21504		Control	39.1	22	AA	No	SVD	PROM	Yes	No
+S02	146	Maternal Saliva	Term	SVD	25992		Control	39.6	32	Asian	No	SVD	Dilation	No	No
+S03	147	Maternal Saliva	Term	SVD	30477		Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+S04	157	Maternal Saliva	Term	SVD	76902		Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+S05	166	Maternal Saliva	Term	SVD	22653		Control	38.2	22	White	No	SVD	Dilation	Yes	No
+S06	170	Maternal Saliva	Term	SVD	24869		Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+S07	171	Maternal Saliva	Term	SVD	26810		Control	40.6	26	White	Yes	SVD	PROM	No	No
+S08	172	Maternal Saliva	Term	SVD	50509		Control	38.6	21	AA	Yes	SVD	PROM	No	No
+S09	177	Maternal Saliva	Term	SVD	58706		Control	40.2	30	White	No	SVD	Dilation	No	No
+S10	178	Maternal Saliva	Term	SVD	37808		Control	39.5	31	White	No	SVD	Dilation	No	No
+S11	182	Maternal Saliva	Term	SVD	21490		Control	39.2	23	AA	Yes	SVD	PROM	No	No
+S12	186	Maternal Saliva	Term	C-Section	29342		Control	39.4	33	AA	No	C-Section	Dilation	No	No
+S13	187	Maternal Saliva	Term	SVD	50423		Control	39	25	AA	No	SVD	PROM	No	No
+S14	190	Maternal Saliva	Term	SVD	50502		Control	40.4	24	AA	No	SVD	Dilation	No	No
+S15	191	Maternal Saliva	Term	SVD	18696		Control	39.2	34	AA	No	SVD	PROM	No	No
+S16	193	Maternal Saliva	Term	SVD	37513		Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+S17	195	Maternal Saliva	Term	SVD	27814		Control	38.5	31	White	Yes	SVD	Dilation	No	No
+S18	197	Maternal Saliva	Term	SVD	38055		Control	40.3	22	AA	Yes	SVD	PROM	No	No
+S19	198	Maternal Saliva	Term	SVD	42453		Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+S20	201	Maternal Saliva	Term	SVD	50756		Control	38.1	30	White	Yes	SVD	Dilation	No	No
+S21	135	Maternal Saliva	Preterm	SVD	24478		Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+S22	184	Maternal Saliva	Preterm	SVD	20089		Case	34	32	White	No	SVD	PPROM	Yes	No
+S23	192	Maternal Saliva	Preterm	SVD	66574		Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+S24	207	Maternal Saliva	Preterm	SVD	25012		Case	33.3	25	White	No	SVD	Dilation	No	No
+S25	216	Maternal Saliva	Preterm	SVD	45689		Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+S26	224	Maternal Saliva	Preterm	SVD	35552		Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+S27	226	Maternal Saliva	Preterm	SVD	73031		Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+S28	250	Maternal Saliva	Preterm	C-Section	93954		Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+S29	254	Maternal Saliva	Preterm	C-Section	85455		Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+S30	259	Maternal Saliva	Preterm	SVD	24424		Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+S31	262	Maternal Saliva	Preterm	SVD	24372		Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+S32	264	Maternal Saliva	Preterm	SVD	24611		Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+S33	265	Maternal Saliva	Preterm	C-Section	50572		Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+S34	267	Maternal Saliva	Preterm	C-Section	19559		Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+S35	274	Maternal Saliva	Preterm	SVD	42997		Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+S36	279	Maternal Saliva	Preterm	C-Section	31977		Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+S37	297	Maternal Saliva	Preterm	SVD	49170		Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+S38	307	Maternal Saliva	Preterm	SVD	71505		Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+S39	314	Maternal Saliva	Preterm	SVD	52672		Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+S40	318	Maternal Saliva	Preterm	SVD	60908		Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+S41	202	Maternal Saliva	Term	SVD	23246	1080422	Control	39.1	22	AA	No	SVD	PROM	Yes	No
+S42	146	Maternal Saliva	Term	SVD	30309	536016	Control	39.6	32	Asian	No	SVD	Dilation	No	No
+S43	147	Maternal Saliva	Term	SVD	25244	2433985	Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+S44	157	Maternal Saliva	Term	SVD	27804	322157	Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+S45	166	Maternal Saliva	Term	SVD	22363	288910	Control	38.2	22	White	No	SVD	Dilation	Yes	No
+S46	170	Maternal Saliva	Term	SVD	22599	257866	Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+S47	171	Maternal Saliva	Term	SVD	26282	438593	Control	40.6	26	White	Yes	SVD	PROM	No	No
+S48	172	Maternal Saliva	Term	SVD	53399	673062	Control	38.6	21	AA	Yes	SVD	PROM	No	No
+S49	177	Maternal Saliva	Term	SVD	29053	1233778	Control	40.2	30	White	No	SVD	Dilation	No	No
+S50	178	Maternal Saliva	Term	SVD	44111	532502	Control	39.5	31	White	No	SVD	Dilation	No	No
+S51	182	Maternal Saliva	Term	SVD	55337	1565277	Control	39.2	23	AA	Yes	SVD	PROM	No	No
+S52	186	Maternal Saliva	Term	C-Section	63366	1229230	Control	39.4	33	AA	No	C-Section	Dilation	No	No
+S53	187	Maternal Saliva	Term	SVD	48684	1353674	Control	39	25	AA	No	SVD	PROM	No	No
+S54	190	Maternal Saliva	Term	SVD	48119	570895	Control	40.4	24	AA	No	SVD	Dilation	No	No
+S55	191	Maternal Saliva	Term	SVD	38031	231372	Control	39.2	34	AA	No	SVD	PROM	No	No
+S56	193	Maternal Saliva	Term	SVD	30793	120156	Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+S57	195	Maternal Saliva	Term	SVD	31578	798814	Control	38.5	31	White	Yes	SVD	Dilation	No	No
+S58	197	Maternal Saliva	Term	SVD	31763	98537	Control	40.3	22	AA	Yes	SVD	PROM	No	No
+S59	198	Maternal Saliva	Term	SVD	23336	331751	Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+S60	201	Maternal Saliva	Term	SVD	22004	1967528	Control	38.1	30	White	Yes	SVD	Dilation	No	No
+S61	135	Maternal Saliva	Preterm	SVD	21602	4210331	Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+S62	184	Maternal Saliva	Preterm	SVD	18874	2111991	Case	34	32	White	No	SVD	PPROM	Yes	No
+S63	192	Maternal Saliva	Preterm	SVD	50321	2222494	Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+S64	207	Maternal Saliva	Preterm	SVD	65211	1278081	Case	33.3	25	White	No	SVD	Dilation	No	No
+S65	216	Maternal Saliva	Preterm	SVD	49796	899522	Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+S66	224	Maternal Saliva	Preterm	SVD	61623	554612	Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+S67	226	Maternal Saliva	Preterm	SVD	33404	2219607	Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+S68	250	Maternal Saliva	Preterm	C-Section	24229	163858	Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+S69	254	Maternal Saliva	Preterm	C-Section	56891	2408488	Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+S70	259	Maternal Saliva	Preterm	SVD	51371	1537700	Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+S71	262	Maternal Saliva	Preterm	SVD	31377	1558789	Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+S72	264	Maternal Saliva	Preterm	SVD	46157	3086695	Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+S73	265	Maternal Saliva	Preterm	C-Section	53015	365627	Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+S74	267	Maternal Saliva	Preterm	C-Section	28736	3127892	Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+S75	274	Maternal Saliva	Preterm	SVD	22125	439863	Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+S76	279	Maternal Saliva	Preterm	C-Section	21878	79494	Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+S77	297	Maternal Saliva	Preterm	SVD	23552	1654896	Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+S78	307	Maternal Saliva	Preterm	SVD	24269	1009690	Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+S79	314	Maternal Saliva	Preterm	SVD	24623	298982	Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+S80	318	Maternal Saliva	Preterm	SVD	44150	558151	Case	32.4	25	AA	No	SVD	PPROM	Yes	No
+VS.B1	Blank	Blank			680	22131									
+VS.B2	Blank	Blank			412	3006									
+VS.B3	Blank	Blank				6339									
+VS.B4	Blank	Blank			235	8596									
+VS01	202	Vaginal Swab	Term	SVD	88767	16610	Control	39.1	22	AA	No	SVD	PROM	Yes	No
+VS02	146	Vaginal Swab	Term	SVD	98620	18998	Control	39.6	32	Asian	No	SVD	Dilation	No	No
+VS03	147	Vaginal Swab	Term	SVD	49846	254876	Control	38.3	23	AA	Yes	SVD	Dilation	No	No
+VS04	157	Vaginal Swab	Term	SVD	84865	3935	Control	40.2	20	AA	Yes	SVD	Dilation	Yes	No
+VS05	166	Vaginal Swab	Term	SVD	50632	14042	Control	38.2	22	White	No	SVD	Dilation	Yes	No
+VS06	170	Vaginal Swab	Term	SVD	56799	20441	Control	40	26	Unknown	Yes	SVD	Dilation	No	No
+VS07	171	Vaginal Swab	Term	SVD	54491	30286	Control	40.6	26	White	Yes	SVD	PROM	No	No
+VS08	172	Vaginal Swab	Term	SVD	89828	11428	Control	38.6	21	AA	Yes	SVD	PROM	No	No
+VS09	177	Vaginal Swab	Term	SVD	93718	23759	Control	40.2	30	White	No	SVD	Dilation	No	No
+VS10	178	Vaginal Swab	Term	SVD	106093	28579	Control	39.5	31	White	No	SVD	Dilation	No	No
+VS11	182	Vaginal Swab	Term	SVD	119807	78530	Control	39.2	23	AA	Yes	SVD	PROM	No	No
+VS12	186	Vaginal Swab	Term	C-Section	40734	6891	Control	39.4	33	AA	No	C-Section	Dilation	No	No
+VS13	187	Vaginal Swab	Term	SVD	72750	17406	Control	39	25	AA	No	SVD	PROM	No	No
+VS14	190	Vaginal Swab	Term	SVD	129012	49250	Control	40.4	24	AA	No	SVD	Dilation	No	No
+VS15	191	Vaginal Swab	Term	SVD	74597	1114	Control	39.2	34	AA	No	SVD	PROM	No	No
+VS16	193	Vaginal Swab	Term	SVD	66441	56700	Control	38.6	30	Asian	Yes	SVD	PROM	No	No
+VS17	195	Vaginal Swab	Term	SVD	66493	52451	Control	38.5	31	White	Yes	SVD	Dilation	No	No
+VS18	197	Vaginal Swab	Term	SVD	49273	249	Control	40.3	22	AA	Yes	SVD	PROM	No	No
+VS19	198	Vaginal Swab	Term	SVD	95318	77	Control	39.1	25	AA	No	SVD	Dilation	Yes	No
+VS20	201	Vaginal Swab	Term	SVD	96625	12268	Control	38.1	30	White	Yes	SVD	Dilation	No	No
+VS21	135	Vaginal Swab	Preterm	SVD	130795	19590	Case	34.6	33	White	Yes	SVD	PPROM	Yes	Yes
+VS22	184	Vaginal Swab	Preterm	SVD	70403	5147	Case	34	32	White	No	SVD	PPROM	Yes	No
+VS23	192	Vaginal Swab	Preterm	SVD	91487	209365	Case	30.4	19	AA	No	SVD	IOL/Chorio	Yes	Yes
+VS24	207	Vaginal Swab	Preterm	SVD	124440	62768	Case	33.3	25	White	No	SVD	Dilation	No	No
+VS25	216	Vaginal Swab	Preterm	SVD	88853	32006	Case	34.6	20	Native Hawaiian/ Pacific Islander	Yes	SVD	PPROM	No	No
+VS26	224	Vaginal Swab	Preterm	SVD	76641	2922	Case	23.1	31	AA	No	SVD	PPROM	Yes	No
+VS27	226	Vaginal Swab	Preterm	SVD	52985	4693	Case	24.2	27	AA	No	SVD	Dilation	Yes	No
+VS28	250	Vaginal Swab	Preterm	C-Section	78692	164216	Case	33	20	White	Yes	C-Section	PPROM	Yes	No
+VS29	254	Vaginal Swab	Preterm	C-Section	36605	11794	Case	30	36	AA	Yes	C-Section	Dilation	Yes	No
+VS30	259	Vaginal Swab	Preterm	SVD	123895	457	Case	29.6	27	White	Yes	SVD	Dilation	Yes	No
+VS31	262	Vaginal Swab	Preterm	SVD	95243	17446	Case	30.6	18	AA	No	SVD	PPROM	Yes	No
+VS32	264	Vaginal Swab	Preterm	SVD	38812	94470	Case	32.5	44	AA	No	SVD	PPROM	Yes	Yes
+VS33	265	Vaginal Swab	Preterm	C-Section	112204	45639	Case	26.6	28	AA	No	C-Section	PPROM	Yes	Yes
+VS34	267	Vaginal Swab	Preterm	C-Section	36486	37462	Case	34.1	24	White	Yes	C-Section	PPROM	No	No
+VS35	274	Vaginal Swab	Preterm	SVD	42967	5986	Case	34.5	23	AA	No	SVD	PPROM	Yes	No
+VS36	279	Vaginal Swab	Preterm	C-Section	29347	322	Case	31.4	37	White	Yes	C-Section	PPROM	Yes	No
+VS37	297	Vaginal Swab	Preterm	SVD	70322	18532	Case	33.4	34	White	No	SVD	PPROM	Yes	Yes
+VS38	307	Vaginal Swab	Preterm	SVD	68683	14209	Case	24.2	30	AA	No	SVD	Dilation	Yes	No
+VS39	314	Vaginal Swab	Preterm	SVD	82957	15457	Case	33.2	20	AA	Yes	SVD	Dilation	Yes	Yes
+VS40	318	Vaginal Swab	Preterm	SVD	89816	110054	Case	32.4	25	AA	No	SVD	PPROM	Yes	No
