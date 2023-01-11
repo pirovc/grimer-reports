@@ -14,6 +14,7 @@ Examples of reports generated with [GRIMER](https://github.com/pirovc/grimer)
 
 <details>
 <summary>commands used to create report</summary>
+
 <pre>
 # Download files (table, metadata and config)
 wget https://raw.githubusercontent.com/pirovc/grimer-reports/main/placenta/placenta_files.tar.gz
@@ -44,6 +45,7 @@ grimer --config placenta_mgs_config.yaml \
        --title "Placenta study MGS - Leiby, J.S. et al 2018" \
        --output-html placenta_mgs.html
 </pre>
+
 </details>
 
 ---
