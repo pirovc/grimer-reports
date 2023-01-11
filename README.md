@@ -45,6 +45,7 @@ grimer --config placenta_mgs_config.yaml \
        --output-html placenta_mgs.html
 </pre>
 </details>
+
 ---
 
 ### KatharoSeq analysis from Minich et al. "KatharoSeq Enables High-Throughput Microbiome Analysis from Low-Biomass Samples"
@@ -115,7 +116,6 @@ grimer --config config/default.yaml \
 
 <details>
 <summary>commands used to create report</summary>
-
 <pre>
 # Script to download files and generate GRIMER report from any MGnify study accession
 # Requires "jsonapi-client>=0.9.7" (conda install "jsonapi-client>=0.9.7")
